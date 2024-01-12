@@ -1,0 +1,14 @@
+C:\Users\Loja\Desktop\DesafioDoNavio\bin\Debug\net8.0\DesafioDoNavio.exe
+C:\Users\Loja\Desktop\DesafioDoNavio\bin\Debug\net8.0\DesafioDoNavio.deps.json
+C:\Users\Loja\Desktop\DesafioDoNavio\bin\Debug\net8.0\DesafioDoNavio.runtimeconfig.json
+C:\Users\Loja\Desktop\DesafioDoNavio\bin\Debug\net8.0\DesafioDoNavio.dll
+C:\Users\Loja\Desktop\DesafioDoNavio\bin\Debug\net8.0\DesafioDoNavio.pdb
+C:\Users\Loja\Desktop\DesafioDoNavio\obj\Debug\net8.0\DesafioDoNavio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loja\Desktop\DesafioDoNavio\obj\Debug\net8.0\DesafioDoNavio.AssemblyInfoInputs.cache
+C:\Users\Loja\Desktop\DesafioDoNavio\obj\Debug\net8.0\DesafioDoNavio.AssemblyInfo.cs
+C:\Users\Loja\Desktop\DesafioDoNavio\obj\Debug\net8.0\DesafioDoNavio.csproj.CoreCompileInputs.cache
+C:\Users\Loja\Desktop\DesafioDoNavio\obj\Debug\net8.0\DesafioDoNavio.dll
+C:\Users\Loja\Desktop\DesafioDoNavio\obj\Debug\net8.0\refint\DesafioDoNavio.dll
+C:\Users\Loja\Desktop\DesafioDoNavio\obj\Debug\net8.0\DesafioDoNavio.pdb
+C:\Users\Loja\Desktop\DesafioDoNavio\obj\Debug\net8.0\DesafioDoNavio.genruntimeconfig.cache
+C:\Users\Loja\Desktop\DesafioDoNavio\obj\Debug\net8.0\ref\DesafioDoNavio.dll
